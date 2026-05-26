@@ -1,2 +1,2 @@
 # LAB
-Exploring, Learning, Labbing and homelab env.
+Exploring, Learning, Labbing and Homelab env.
